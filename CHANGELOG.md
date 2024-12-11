@@ -1,25 +1,12 @@
 # Changelog
 
-## [0.0.5a7](https://github.com/OpenVoiceOS/ovos-color-parser/tree/0.0.5a7) (2024-12-04)
+## [0.0.8a1](https://github.com/OpenVoiceOS/ovos-color-parser/tree/0.0.8a1) (2024-12-11)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-color-parser/compare/0.0.5a6...0.0.5a7)
-
-**Merged pull requests:**
-
-- added italian translation [\#21](https://github.com/OpenVoiceOS/ovos-color-parser/pull/21) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
-## [0.0.5a6](https://github.com/OpenVoiceOS/ovos-color-parser/tree/0.0.5a6) (2024-12-04)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-color-parser/compare/0.0.5a5...0.0.5a6)
-
-## [0.0.5a5](https://github.com/OpenVoiceOS/ovos-color-parser/tree/0.0.5a5) (2024-12-04)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-color-parser/compare/0.0.6...0.0.5a5)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-color-parser/compare/0.0.7...0.0.8a1)
 
 **Merged pull requests:**
 
-- added italian translation [\#19](https://github.com/OpenVoiceOS/ovos-color-parser/pull/19) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-- added italian translation [\#18](https://github.com/OpenVoiceOS/ovos-color-parser/pull/18) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- de-de/translate [\#24](https://github.com/OpenVoiceOS/ovos-color-parser/pull/24) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 
 
